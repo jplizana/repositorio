@@ -1,1 +1,1 @@
-<?='Hola mundo'?>
+<?echo 'Hola mundo';?>
